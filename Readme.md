@@ -22,8 +22,8 @@ Replace `bityoungjae.com`, `username`, and `password` with your domain name, use
 
 ### Building the Docker Image
 
-1. Clone the repository: git clone [URL_OF_YOUR_REPOSITORY]
-2. Navigate to the directory: cd [DIRECTORY_NAME]
+1. Clone this repository into your desired directory.
+2. Navigate to the cloned directory.
 3. Build the Docker image with the following command:
 
 ```sh
