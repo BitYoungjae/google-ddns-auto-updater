@@ -43,5 +43,3 @@ docker run -d --name update-ddns --restart always update-ddns
 If you have any inquiries, please contact the email address below.
 
 Email: bityoungjae@gmail.com
-
-For your information, I'm not proficient in English. The entire readme was written using ChatGPT.
